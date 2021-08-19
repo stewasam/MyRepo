@@ -1,0 +1,7 @@
+
+name = "1"
+print("Hello " + name + ".")
+name = "Fella"
+print("Hello " + name + ".")
+name = input("What is your name? \nEnter Name: ")
+print("Hello " + name + ".")
